@@ -1,5 +1,10 @@
 # AwaxProject
 
+
+## Sobre o projeto 
+Awax Page - Página com template modelo para empresas - Exercício utilizando HTML, CSS e JavaScript 
+Página responsiva para todos os dispositivos.
+
 ### Link para acesso: https://lucasnatanmelo.github.io/AwaxProject/
 
 ## Images
@@ -22,7 +27,3 @@
 ![image](https://user-images.githubusercontent.com/100950738/167469473-a9204b70-2d9c-47e0-b16b-a05e3e8e6126.png)
 ![image](https://user-images.githubusercontent.com/100950738/167469505-48fd4780-26bb-48af-8bae-b8baf141f1f8.png)
 
-
-## Sobre o projeto 
-Awax Page - Página com template modelo para empresas - Exercício utilizando HTML, CSS e JavaScript 
-Página responsiva para todos os dispositivos.
