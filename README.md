@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto 
-Awax Page - Página com template modelo para empresas - Exercício utilizando HTML, CSS e JavaScript 
+Awax Page - Página com template modelo para empresas - Exercício utilizando HTML, CSS e JavaScript -
 Página responsiva para todos os dispositivos.
 
 ### Link para acesso: https://lucasnatanmelo.github.io/AwaxProject/
